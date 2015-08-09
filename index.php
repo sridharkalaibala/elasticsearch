@@ -218,7 +218,7 @@ include 'api.php';
 	</div>
 
 	<div id="footer-wrapper">
-            <footer id="footer"><p> <a href="http://www.sridharb.com" target="_blank" >www.sridharb.com </a></p></footer>
+            <footer id="footer"><p>  </p></footer>
 	</div>
         <script>
             
